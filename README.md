@@ -19,7 +19,7 @@ IT student building a long-term foundation in cybersecurity through structured C
 
 | Platform | Folder | Challenges Solved |
 |---|---|---|
-| CyLab(formerly PicoCTF) | [`/Cylab-formerly-PicoCTF`](./Cylab-formerly-PicoCTF) | — |
+| CyLab(formerly PicoCTF) | [`/CyLab-formerly-PicoCTF`](./CyLab-formerly-PicoCTF) | — |
 | TryHackMe | [`/TryHackMe`](./TryHackMe) | — |
 | HackTheBox | [`/HackTheBox`](./HackTheBox) | — |
 | Other (OverTheWire, CTFtime events, etc.) | [`/OtherPlatforms`](./OtherPlatforms) | — |
