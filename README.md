@@ -4,7 +4,7 @@ A collection of Capture The Flag (CTF) challenge writeups, notes, and solutions 
 
 ## About
 
-CS/IT student building a long-term foundation in cybersecurity through structured CTF practice. Member of **Cyber Shadows**, part of DEF CON Group Coimbatore (DCG91422).
+IT student building a long-term foundation in cybersecurity through structured CTF practice. Member of **Cyber Shadows**, part of DEF CON Group Coimbatore (DCG91422).
 
 ## Tools & Skills
 
